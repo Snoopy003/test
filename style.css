@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.758);
+    border: 2px solid black;
+    display: inline-block;
+    margin: 80px;
+}
+
+.coverphoto {
+   
+    
+    margin-top: 40px;
+    /* overflow: hidden; */
+  width: 100%;
+     display: inline-block;
+}
+
+.profile
+{
+    margin-top: -130px;
+    margin-left: 20px;
+
+    border: 3px solid white;
+    border-radius: 50%;
+}
+
+.profile-name {
+    font-family: 'Manrope', sans-serif;
+     font-size: larger;
+     color: aliceblue;
+     margin-left: 35px;
+}
+
+.bio{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+
+.fri{
+    font-family: 'Manrope', sans-serif;
+    border-radius: 5px;
+    border: 0.5px solid rgba(222, 218, 218, 0.952);
+    background-color: rgba(0, 0, 0, 0.288);
+    font-size: large;
+    width: 200px;
+    height: 35px;
+    color: aliceblue;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.msg{
+    font-family: 'Manrope', sans-serif;
+    border-radius: 5px;
+    border: 0.5px solid rgba(222, 218, 218, 0.952);
+    background-color: rgba(47, 54, 244, 0.995);
+    font-size: large;
+    width: 200px;
+    height: 35px;
+    color: aliceblue;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.dots {
+    width: 50px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.288);
+    border: 0.5px solid rgba(222, 218, 218, 0.952);
+    border-radius: 5px;
+}
